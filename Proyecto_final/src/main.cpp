@@ -8,7 +8,7 @@
 // Wifi
 #include <WiFi.h>
 const char* ssid = "iPhone de Sonia";
-const char* password = "sonia123";
+const char* password = "sonia123@";
 
 // Pagina web
 #include <WebServer.h>
