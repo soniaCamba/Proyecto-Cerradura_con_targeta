@@ -166,7 +166,7 @@ server.send(200, "text/html", HTML);
 ```
 ## EXPLICACIÓN
 
-video: https://drive.google.com/file/d/1fWrj_cqkYSKoVPcvt2xmV2pf9sGFMEyQ/view?usp=sharing
+video: https://www.youtube.com/watch?v=GqsDBOWtVCQ
 
 Primero de todo hemos tenido que declarar las librerias correspondientes a cada una de las funcionalidades del proyecto. Algunas nos daban error y las hemos tenido que añadir con el PlatformIO.
 ```
