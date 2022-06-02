@@ -4,11 +4,9 @@ Con este proyecto queriamos simular una puerta automática
 
 ## FUNCIONALIDADES
 
-- Leer targetas // Albert y Sonia
-- Encender un led blanco de control // Albert y Sonia
-- Compararlas // Albert y Sonia
-- Si la tiene guardada enciende un led verde (// Albert y Sonia) y genera una pagina web donde aparece quien esta entrando y donde vive // Sonia
-- Sino se enciende un led rojo // Albert y Sonia
+- Leer targetas y compararlas con la nuestra// Albert y Sonia
+- Leds // Albert y Sonia
+- Si la targeta es correcta genera una pagina web donde aparece quien esta entrando y donde vive // Sonia
 - Poder picar a un timbre // Sonia
 - Que el supesto conserge pueda abrir desde dentro // Sonia
 
