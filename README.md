@@ -12,7 +12,7 @@ Con este proyecto queriamos simular una puerta automática
 - Poder picar a un timbre // Sonia
 - Que el supesto conserge pueda abrir desde dentro // Sonia
 
-## CODIGO
+## CÓDIGO
 ```
 #include <Arduino.h>
 // Lector de targetas
